@@ -3,7 +3,7 @@
 ### 1，clone客户端代码
   $ git clone git@github.com:lidong/code-push-demo-app.git
  
-### 2, cd到demo路径，执行npm install 安装node依赖包
+### 2，cd到demo路径，执行npm install 安装node依赖包
  
 ### 3，用Android Studio打开code-push-demo-app/android目录
 
